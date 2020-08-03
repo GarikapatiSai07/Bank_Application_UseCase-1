@@ -8,8 +8,8 @@ String id = request.getParameter("userId");
 String driverName = "com.mysql.cj.jdbc.Driver";
 String connectionUrl = "jdbc:mysql://127.0.0.1:3306/";
 String dbName = "use_case";
-String userId = "Pushpak";
-String password = "Pushpak@123";
+String userId = "GarikapatiSai07";
+String password = "Sai@131997";
 
 try {
 Class.forName(driverName);
